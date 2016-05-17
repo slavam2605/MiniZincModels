@@ -1,0 +1,4 @@
+output [(((((show(min_deg)++", ")++show(max_deg))++"\n")++show(min_deg*max_deg))++" :: ")++show(n-1)];
+int: n = 31;
+int: min_deg;
+int: max_deg;
